@@ -1,4 +1,4 @@
-## E-commerce 
+## Crwn clothing 
 
 * Gonna have navigation and routing that takes us to different pages of categories of items and from these items 
 * We're actually going to be able to add them to our cart and from our car.
@@ -23,3 +23,5 @@ once we sign in we're also going to provide a sign feature and a signup and sign
 1. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function" target="_blank">cubic-bezier doc</a>
 2. <a href="https://fonts.google.com/?query=open+sans+condensed&selection.family=Open+Sans+Condensed:wght@300&sidebar.open=true" target="_blank">Googlr Fonts</a>
 3. <a href="https://www.npmjs.com/package/node-sass" target="_blank">Sass</a>
+4. <a href="https://github.com/facebook/create-react-app/issues/7169" target="_blank">react-scripts babel-jest version conflict</a>
+5. <a href="https://reactrouter.com/web/guides/quick-start" target="_blank">React-router doc</a>
