@@ -25,3 +25,5 @@
 4. <a href="https://github.com/facebook/create-react-app/issues/7169" target="_blank">react-scripts babel-jest version conflict</a>
 5. <a href="https://reactrouter.com/web/guides/quick-start" target="_blank">React-router doc</a>
 6. <a href="https://reactjs.org/docs/higher-order-components.html" target="_blank">Higher-Order Components</a>
+7. <a href="https://firebase.google.com/docs/auth/web/google-signin" target="_blank">Firebase Authenticate Using Google Sign-In</a>
+8. <a href="https://www.w3schools.com/cssref/css3_pr_box-sizing.asp" target="_blank">CSS box-sizing Property</a>
