@@ -3,14 +3,14 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-	apiKey: 'AIzaSyCAwWR215gmDVE6f9w71gfvqAcBkRpFkCw',
-	authDomain: 'crwn-db-9deb6.firebaseapp.com',
-	databaseURL: 'https://crwn-db-9deb6.firebaseio.com',
-	projectId: 'crwn-db-9deb6',
-	storageBucket: 'crwn-db-9deb6.appspot.com',
-	messagingSenderId: '958554465952',
-	appId: '1:958554465952:web:ee526260445920b2248bc5',
-	measurementId: 'G-FVR8B6Y03N'
+	apiKey: 'AIzaSyDmITqb8XsJ97o_E4fzLMYYKOP352bguis',
+	authDomain: 'crown-bosel.firebaseapp.com',
+	databaseURL: 'https://crown-bosel.firebaseio.com',
+	projectId: 'crown-bosel',
+	storageBucket: 'crown-bosel.appspot.com',
+	messagingSenderId: '187031428244',
+	appId: '1:187031428244:web:8bb0be6feea81bb965e881',
+	measurementId: 'G-6L6KGEJ5EB'
 };
 
 export const createUserProfileDocument = async (userAuth, additionalData) => {
